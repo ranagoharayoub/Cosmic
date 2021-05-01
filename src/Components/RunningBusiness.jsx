@@ -20,7 +20,7 @@ function RunningBusiness() {
 
 
 
-            <div className="image2"><img/></div>
+            <div className="image2"></div>
             <div className="circle"></div>
             <div className="decor"></div>
         </div>

@@ -13,7 +13,7 @@ function LandingPage() {
             <GetStarted></GetStarted>
             <RunningBusiness></RunningBusiness>
             <Marketing></Marketing>
-            {/* <FreedomForYou></FreedomForYou> */}
+            <FreedomForYou></FreedomForYou>
         </div>
     )
 }

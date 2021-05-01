@@ -21,7 +21,7 @@ function Marketing() {
             <div className="icon"></div>
 
 
-            <div className="image"><img/></div>
+            <div className="image"></div>
             <div className="circle"></div>
             <div className="decor"></div>
             

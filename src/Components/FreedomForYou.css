@@ -1,0 +1,46 @@
+.freedom .green-card{
+    /* position: absolute; */
+    top: 4103px;
+    left: 224px;
+    width: 1232px;
+    height: 518px;
+    background: var(--unnamed-color-29c78a) 0% 0% no-repeat padding-box;
+    background: #29C78A 0% 0% no-repeat padding-box;
+    border-radius: 38px;
+    opacity: 1;
+}
+
+.freedom .text{
+    top: 4162px;
+    left: 295px;
+    width: 639px;
+    height: 285px;
+    color: var(---ffffff-background);
+    text-align: left;
+    font: normal normal 600 31px/34px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.freedom .carlos{
+    top: 4482px;
+    left: 295px;
+    width: 216px;
+    height: 78px;
+    color: var(---ffffff-background);
+    text-align: left;
+    font: normal normal 600 31px/34px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.freedom .img{
+    top: 4033px;
+    left: 996px;
+    width: 399px;
+    height: 527px;
+    opacity: 1;
+    background-color: aquamarine;
+}
