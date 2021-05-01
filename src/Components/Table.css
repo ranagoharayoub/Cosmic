@@ -1,0 +1,418 @@
+*{
+    position: absolute;
+}
+
+.tablejs .title1 {
+    top: 4791px;
+    left: 396px;
+    width: 888px;
+    height: 121px;
+ 
+    text-align: center;
+    font: normal normal 600 51px/49px Poppins;
+    letter-spacing: 0px;
+    color: #454142;
+    opacity: 1;
+}
+
+.tablejs .title2 {
+    top: 4962px;
+    left: 558px;
+    width: 564px;
+    height: 39px;
+    
+    text-align: center;
+    font: normal normal 600 28px/49px Poppins;
+    letter-spacing: 8.4px;
+    color: #331FE6;
+    opacity: 1;
+}
+
+.tablejs .table {
+    top: 5094px;
+    left: 135px;
+    width: 1406px;
+    height: 938px;
+   
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 3px 3px 60px #0000000D;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.tablejs .tableh1 {
+    top: 5137px;
+    left: 184px;
+    width: 325px;
+    height: 49px;
+
+    text-align: left;
+    font: normal normal 600 35px/49px Poppins;
+    letter-spacing: 0px;
+    color: #454142;
+    opacity: 1;
+}
+
+.tablejs .tableh2 {
+    top: 5137px;
+left: 656px;
+width: 367px;
+height: 49px;
+
+text-align: left;
+font: normal normal 600 35px/49px Poppins;
+letter-spacing: 0px;
+color: #454142;
+opacity: 1;
+}
+
+.tablejs .tablev1 {
+    top: 5286px;
+left: 184px;
+width: 174px;
+height: 29px;
+
+text-align: left;
+font: normal normal normal 21px/49px Poppins;
+letter-spacing: 0px;
+color: #454142;
+opacity: 1;
+}
+
+.tablejs .tablev2 {
+    top: 5393px;
+left: 184px;
+width: 387px;
+height: 73px;
+
+text-align: left;
+font: normal normal normal 21px/22px Poppins;
+letter-spacing: 0px;
+color: #454142;
+opacity: 1;
+    
+}
+
+.tablejs .tablev3 {
+    top: 5549px;
+left: 184px;
+width: 202px;
+height: 29px;
+
+text-align: left;
+font: normal normal normal 21px/22px Poppins;
+letter-spacing: 0px;
+color: #454142;
+opacity: 1;
+    
+}
+
+.tablejs .tablev4 {
+    top: 5683px;
+left: 184px;
+width: 247px;
+height: 29px;
+
+text-align: left;
+font: normal normal normal 21px/22px Poppins;
+letter-spacing: 0px;
+color: #454142;
+opacity: 1;
+    
+}
+
+.tablejs .tablev5 {
+    top: 5817px;
+left: 184px;
+width: 198px;
+height: 29px;
+
+text-align: left;
+font: normal normal normal 21px/22px Poppins;
+letter-spacing: 0px;
+color: #454142;
+opacity: 1;
+    
+}
+
+.tablejs .tablev6 {
+    top: 5276px;
+left: 656px;
+width: 151px;
+height: 49px;
+
+text-align: left;
+font: normal normal normal 35px/49px Poppins;
+letter-spacing: 0px;
+color: #454142;
+opacity: 1;
+    
+}
+
+.tablejs .tablev7 {
+    top: 5405px;
+left: 656px;
+width: 22px;
+height: 49px;
+
+text-align: left;
+font: normal normal normal 35px/49px Poppins;
+letter-spacing: 0px;
+color: #454142;
+opacity: 1;
+    
+}
+
+.tablejs .tablev8 {
+    top: 5539px;
+left: 656px;
+width: 22px;
+height: 49px;
+
+text-align: left;
+font: normal normal normal 35px/49px Poppins;
+letter-spacing: 0px;
+color: #454142;
+opacity: 1;
+    
+}
+
+.tablejs .tablev9 {
+    top: 5673px;
+left: 656px;
+width: 42px;
+height: 49px;
+
+text-align: left;
+font: normal normal normal 35px/49px Poppins;
+letter-spacing: 0px;
+color: #454142;
+opacity: 1;
+    
+}
+
+.tablejs .tablev10 {
+    top: 5817px;
+left: 656px;
+width: 97px;
+height: 29px;
+
+text-align: left;
+font: normal normal normal 21px/22px Poppins;
+letter-spacing: 0px;
+color: #454142;
+opacity: 1;
+    
+}
+
+.tablejs .tablev11 {
+    top: 5951px;
+left: 184px;
+width: 228px;
+height: 29px;
+
+text-align: left;
+font: normal normal bold 21px/22px Poppins;
+letter-spacing: 0px;
+color: #454142;
+
+    
+}
+
+.tablejs .tablev12 {
+    top: 5941px;
+left: 656px;
+width: 235px;
+height: 49px;
+
+text-align: left;
+font: normal normal bold 35px/49px Poppins;
+letter-spacing: 0px;
+color: #454142;
+opacity: 1;
+    
+}
+
+.tablejs .blueTable {
+    top: 5094px;
+left: 1077px;
+width: 464px;
+height: 938px;
+background: #331FE6 0% 0% no-repeat padding-box;
+border-radius: 0px 10px 10px 0px;
+opacity: 1;
+
+}
+
+.tablejs .blueTableh1 {
+    top: 5137px;
+left: 1131px;
+width: 357px;
+height: 49px;
+text-align: left;
+font: normal normal 600 35px/49px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.tablejs .blueTablev1 {
+    top: 5276px;
+left: 1131px;
+width: 192px;
+height: 49px;
+text-align: left;
+font: normal normal normal 35px/49px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.tablejs .blueTablev2 {
+    top: 5405px;
+left: 1131px;
+width: 32px;
+height: 49px;
+text-align: left;
+font: normal normal normal 35px/49px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.tablejs .blueTablev3 {
+    top: 5539px;
+left: 1131px;
+width: 42px;
+height: 49px;
+text-align: left;
+font: normal normal normal 35px/49px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.tablejs .blueTablev4 {
+    top: 5673px;
+left: 1131px;
+width: 43px;
+height: 49px;
+text-align: left;
+font: normal normal normal 35px/49px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.tablejs .blueTablev5 {
+    top: 5792px;
+left: 1131px;
+width: 215px;
+height: 49px;
+text-align: left;
+font: normal normal normal 35px/49px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.tablejs .blueTablev6 {
+    top: 5941px;
+left: 1131px;
+width: 247px;
+height: 49px;
+text-align: left;
+font: normal normal bold 35px/49px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.tablejs .darkBlueBox{
+    top: 5898px;
+left: 1077px;
+width: 464px;
+height: 134px;
+background: #201035 0% 0% no-repeat padding-box;
+border-radius: 0px 10px 10px 0px;
+opacity: 1;
+
+}
+
+.tablejs .darkBlueBoxValue{
+    top: 5941px;
+left: 1131px;
+width: 247px;
+height: 49px;
+text-align: left;
+font: normal normal bold 35px/49px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+    
+}
+
+.tablejs .hl1 {
+    top: 5228px;
+left: 135px;
+width: 942px;
+height: 0px;
+border: 2px solid #E3E3E3;
+opacity: 1;
+}
+
+.tablejs .hl2 {
+    top: 5362px;
+left: 135px;
+width: 942px;
+height: 0px;
+border: 2px solid #e3e3e3;
+opacity: 1;
+}
+
+.tablejs .hl3 {
+    top: 5496px;
+left: 135px;
+width: 942px;
+height: 0px;
+border: 2px solid #E3E3E3;
+opacity: 1;
+}
+
+.tablejs .hl4 {
+    top: 5630px;
+left: 135px;
+width: 942px;
+height: 0px;
+border: 2px solid #E3E3E3;
+opacity: 1;
+}
+
+.tablejs .hl5 {
+    top: 5764px;
+left: 135px;
+width: 942px;
+height: 0px;
+border: 2px solid #E3E3E3;
+opacity: 1;
+}
+
+.tablejs .hl6 {
+    top: 5898px;
+left: 135px;
+width: 942px;
+height: 0px;
+border: 2px solid #E3E3E3;
+opacity: 1;
+}
+
+.tablejs .vl1 {
+    top: 5094px;
+    left: 604px;
+    border: 2px solid #E3E3E3;
+    opacity: 1;
+    height: 938px;
+
+}
+
+
