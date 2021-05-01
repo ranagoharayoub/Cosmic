@@ -1,0 +1,121 @@
+.business .icon{
+    top: 2216px;
+    left: 809px;
+    width: 62px;
+    height: 62px;
+    background: transparent url('../images/Group 8185.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.business .title1 {
+    top: 2234px;
+    left: 374px;
+    width: 389px;
+    height: 44px;
+    
+    text-align: right;
+    font: normal normal 600 31px/32px Poppins;
+    letter-spacing: 0px;
+    color: #1270E3;
+    opacity: 1;
+}
+
+.business .title2 {
+    top: 2295px;
+    left: 202px;
+    width: 561px;
+    height: 221px;
+
+    text-align: right;
+    font: normal normal 600 51px/49px Poppins;
+    letter-spacing: 0px;
+    color: #454142;
+    opacity: 1;
+}
+
+.business .para {
+    top: 2548px;
+    left: 164px;
+    width: 558px;
+    height: 62px;
+    
+    text-align: right;
+    font: normal normal 600 21px/32px Poppins;
+    letter-spacing: 0px;
+    color: #9D9D9D;
+    opacity: 1;
+}
+
+.business .paraIcon{
+    top: 2548px;
+    left: 755px;
+    width: 8px;
+    height: 62px;
+    background: transparent url('../images/Rectangle 3242.svg') 0% 0% no-repeat padding-box;
+    border-radius: 100px;
+    opacity: 1;
+}
+
+.business .image2 {
+        top: 2278px;
+        left: 978px;
+        width: 563px;
+        height: 401px;
+        opacity: 1;
+        z-index: 1;
+
+        background-color: bisque;
+}
+
+.business .circle {
+    top: 2303px;
+    left: 1197px;
+    width: 483px;
+    height: 654px;
+    background: transparent url('../images/Mask Group 50.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.business .buttonIcon {
+    top: 2642px;
+    left: 404px;
+    width: 121px;
+    height: 62px;
+    background: transparent url('../images/Path 10343a.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+.business .button {
+    top: 2642px;
+    left: 526px;
+    width: 237px;
+    height: 63px;
+    background: transparent url('../images/Subtraction 3a.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.business .buttonContent {
+    
+    top: 2659px;
+    left: 577px;
+    width: 135px;
+    height: 29px;
+    color: var(---ffffff-background);
+    text-align: left;
+    font: normal normal 600 21px/32px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+  z-index: 1;
+}
+
+.business .decor {
+    top: 2888px;
+    left: 0px;
+    width: 127px;
+    height: 128px;
+    transform: matrix(-1, 0, 0, -1, 0, 0);
+    background: transparent url('../images/Group 8190.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}

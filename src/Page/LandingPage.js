@@ -10,10 +10,10 @@ function LandingPage() {
     return (
         <div className='main-div'>
             <MainPage></MainPage>
-            {/* <GetStarted></GetStarted>
+            <GetStarted></GetStarted>
             <RunningBusiness></RunningBusiness>
             <Marketing></Marketing>
-            <FreedomForYou></FreedomForYou> */}
+            {/* <FreedomForYou></FreedomForYou> */}
         </div>
     )
 }
