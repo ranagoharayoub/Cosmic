@@ -1,0 +1,185 @@
+.getapps .mobile-pic{
+    top: 11757px;
+    left: 243px;
+    width: 403px;
+    height: 795px;
+    background: transparent url('../img//Group\ 43.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.getapps .multi-mode{
+    top: 11757px;
+    left: 764px;
+    width: 777px;
+    height: 183px;
+    /* color: var(---454142-titles); */
+    text-align: left;
+    font: normal normal 600 51px/54px Poppins;
+    letter-spacing: 0px;
+    color: #454142;
+    opacity: 1;
+}
+
+.getapps .bikes{
+    top: 11940px;
+    left: 764px;
+    width: 497px;
+    height: 43px;
+    text-align: left;
+    font: normal normal 600 30px/54px Poppins;
+    letter-spacing: 0px;
+    color: #454142;
+    opacity: 1;
+}
+
+.getapps .tile-1{
+    top: 12058px;
+    left: 764px;
+    width: 140px;
+    height: 140px;
+    background: var(--unnamed-color-331fe6) 0% 0% no-repeat padding-box;
+    background: #331FE6 0% 0% no-repeat padding-box;
+    border-radius: 31px;
+    opacity: 1;
+}
+
+.getapps .tile-2{
+    top: 12058px;
+    left: 976px;
+    width: 140px;
+    height: 140px;
+    background: var(--unnamed-color-331fe6) 0% 0% no-repeat padding-box;
+    background: #331FE6 0% 0% no-repeat padding-box;
+    border-radius: 31px;
+    opacity: 1;
+}
+
+.getapps .tile-3{
+    top: 12058px;
+    left: 1189px;
+    width: 140px;
+    height: 140px;
+    background: var(--unnamed-color-331fe6) 0% 0% no-repeat padding-box;
+    background: #331FE6 0% 0% no-repeat padding-box;
+    border-radius: 31px;
+    opacity: 1;
+}
+
+.getapps .tile-4{
+    top: 12058px;
+    left: 1401px;
+    width: 140px;
+    height: 140px;
+    background: var(--unnamed-color-331fe6) 0% 0% no-repeat padding-box;
+    background: #331FE6 0% 0% no-repeat padding-box;
+    border-radius: 31px;
+    opacity: 1;
+
+}
+
+.getapps .tile-1-img{
+    top: 12094px;
+    left: 810px;
+    width: 49px;
+    height: 69px;
+    background: transparent url('../img/Group\ 8239.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.getapps .tile-2-img{
+    top: 12093px;
+    left: 1012px;
+    width: 68px;
+    height: 69px;
+    background: transparent url('../img/Group\ 8240.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.getapps .tile-3-img{
+    top: 12094px;
+    left: 1222px;
+    width: 74px;
+    height: 68px;
+    background: transparent url('../img/Group\ 8241.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.getapps .tile-4-img{
+    top: 12094px;
+    left: 1422px;
+    width: 100px;
+    height: 69px;
+    background: transparent url('../img/Group\ 8242.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+.getapps .RENTAL{
+    top: 12223px;
+    left: 798px;
+    width: 73px;
+    height: 28px;
+    /* color: var(---454142-titles); */
+    text-align: left;
+    font: normal normal 600 20px/54px Poppins;
+    letter-spacing: 0px;
+    color: #454142;
+    opacity: 1;
+}
+
+.getapps .FREEFLOATING{
+    top: 12223px;
+    left: 975px;
+    width: 142px;
+    height: 28px;
+    /* color: var(---454142-titles); */
+    text-align: left;
+    font: normal normal 600 20px/54px Poppins;
+    letter-spacing: 0px;
+    color: #454142;
+    opacity: 1;
+}
+
+.getapps .SUBSCRIPTIONS{
+    top: 12223px;
+    left: 1182px;
+    width: 157px;
+    height: 28px;
+    /* color: var(---454142-titles); */
+    text-align: left;
+    font: normal normal 600 20px/54px Poppins;
+    letter-spacing: 0px;
+    color: #454142;
+    opacity: 1;
+}
+
+.getapps .AMENITY{
+    top: 12223px;
+    left: 1428px;
+    width: 87px;
+    height: 28px;
+    /* color: var(---454142-titles); */
+    text-align: left;
+    font: normal normal 600 20px/54px Poppins;
+    letter-spacing: 0px;
+    color: #454142;
+    opacity: 1;
+}
+
+.getapps .apple-badge{
+    top: 12379px;
+    left: 764px;
+    width: 308px;
+    height: 87px;
+    background: transparent url('../img/Group\ 195.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.getapps .play-badge{
+    top: 12379px;
+    left: 1107px;
+    width: 308px;
+    height: 87px;
+    background: transparent url('../img/Group\ 194.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
