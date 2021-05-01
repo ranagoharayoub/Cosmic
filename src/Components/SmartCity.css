@@ -1,0 +1,293 @@
+.city .title{
+    top: 7714px;
+    left: 464px;
+    width: 752px;
+    height: 121px;
+    /* color: var(---454142-titles); */
+    text-align: center;
+    font: normal normal 600 51px/49px Poppins;
+    letter-spacing: 0px;
+    color: #454142;
+    opacity: 1;
+}
+
+.city .title-2{
+    top: 7844px;
+    left: 562px;
+    width: 556px;
+    height: 29px;
+    /* color: var(---9d9d9d-titles-2); */
+    text-align: left;
+    font: normal normal 600 21px/32px Poppins;
+    letter-spacing: 0px;
+    color: #9D9D9D;
+    opacity: 1;
+}
+
+.city .title-3{
+    top: 7919px;
+    left: 757px;
+    width: 136px;
+    height: 23px;
+    color: var(--unnamed-color-331fe6);
+    text-align: center;
+    font: normal normal bold 16px/22px Poppins;
+    letter-spacing: 1.6px;
+    color: #331FE6;
+    opacity: 1;
+}
+
+.city .title-4{
+    top: 9045px;
+    left: 137px;
+    width: 800px;
+    height: 59px;
+    /* color: var(---454142-titles); */
+    text-align: center;
+    font: normal normal 600 42px/51px Poppins;
+    letter-spacing: 0px;
+    color: #454142;
+    opacity: 1;
+}
+
+.city .title-5{
+    top: 9212px;
+    left: 185px;
+    width: 558px;
+    height: 95px;
+    /* color: var(---9d9d9d-titles-2); */
+    text-align: left;
+    font: normal normal 600 21px/32px Poppins;
+    letter-spacing: 0px;
+    color: #9D9D9D;
+    opacity: 1;
+}
+
+
+.city .title-6{
+    top: 9316px;
+    left: 864px;
+    width: 114px;
+    height: 23px;
+    color: var(--unnamed-color-331fe6);
+    text-align: center;
+    font: normal normal bold 16px/22px Poppins;
+    letter-spacing: 1.6px;
+    color: #331FE6;
+    opacity: 1;
+}
+
+.city .title-7{
+    top: 9316px;
+    left: 1108px;
+    width: 114px;
+    height: 23px;
+    color: var(--unnamed-color-331fe6);
+    text-align: center;
+    font: normal normal bold 16px/22px Poppins;
+    letter-spacing: 1.6px;
+    color: #331FE6;
+    opacity: 1;
+}
+
+.city .title-8{
+    top: 9316px;
+    left: 1351px;
+    width: 114px;
+    height: 23px;
+    color: var(--unnamed-color-331fe6);
+    text-align: center;
+    font: normal normal bold 16px/22px Poppins;
+    letter-spacing: 1.6px;
+    color: #331FE6;
+    opacity: 1;
+}
+
+.city .logo-1{
+    top: 9189px;
+    left: 867px;
+    width: 111px;
+    height: 106px;
+    background: transparent url('../img/Screen\ Shot\ 2021-04-27\ at\ 3.17.43\ PM.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.city .logo-2{
+    top: 9196px;
+    left: 1084px;
+    width: 188px;
+    height: 93px;
+    background: transparent url('../img/Screen\ Shot\ 2021-04-27\ at\ 3.17.48\ PM.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.city .logo-3{
+    top: 9189px;
+    left: 1351px;
+    width: 122px;
+    height: 112px;
+    background: transparent url('../img/Screen\ Shot\ 2021-04-27\ at\ 3.17.52\ PM.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.city .btn-1{
+    top: 8776px;
+    left: -190.4366455078125px;
+    width: 267px;
+    height: 63px;
+    background: var(---ffffff-background) 0% 0% no-repeat padding-box;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 6px 6px 22px #00000029;
+    border-radius: 100px;
+    opacity: 1;
+}
+
+.city .btn-2{
+    top: 8776px;
+    left: 239px;
+    width: 267px;
+    height: 63px;
+    background: var(---ffffff-background) 0% 0% no-repeat padding-box;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 6px 6px 22px #00000029;
+    border-radius: 100px;
+    opacity: 1;
+}
+.city .btn-3{
+    top: 8776px;
+    left: 673px;
+    width: 267px;
+    height: 63px;
+    background: var(---ffffff-background) 0% 0% no-repeat padding-box;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 6px 6px 22px #00000029;
+    border-radius: 100px;
+    opacity: 1;
+}
+.city .btn-4{
+    top: 8776px;
+    left: 1095px;
+    width: 267px;
+    height: 63px;
+    background: var(---ffffff-background) 0% 0% no-repeat padding-box;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 6px 6px 22px #00000029;
+    border-radius: 100px;
+    opacity: 1;
+}
+.city .btn-5{
+    top: 8776px;
+    left: 1527px;
+    width: 267px;
+    height: 63px;
+    background: var(---ffffff-background) 0% 0% no-repeat padding-box;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 6px 6px 22px #00000029;
+    border-radius: 100px;
+    opacity: 1;
+}
+.city .btn-title-1{
+    top: 8793px;
+    left: -121.1624755859375px;
+    width: 128px;
+    height: 29px;
+    color: var(--unnamed-color-331fe6);
+    text-align: center;
+    font: normal normal 600 21px/32px Poppins;
+    letter-spacing: 0px;
+    color: #331FE6;
+    opacity: 1;
+}
+.city .btn-title-2{
+    top: 8793px;
+    left: 339px;
+    width: 67px;
+    height: 29px;
+    color: var(--unnamed-color-331fe6);
+    text-align: left;
+    font: normal normal 600 21px/32px Poppins;
+    letter-spacing: 0px;
+    color: #331FE6;
+    opacity: 1;
+}
+.city .btn-title-3{
+    top: 8793px;
+    left: 744px;
+    width: 126px;
+    height: 29px;
+    color: var(--unnamed-color-331fe6);
+    text-align: center;
+    font: normal normal 600 21px/32px Poppins;
+    letter-spacing: 0px;
+    color: #331FE6;
+    opacity: 1;
+}
+.city .btn-title-4{
+    top: 8793px;
+    left: 1162px;
+    width: 134px;
+    height: 29px;
+    color: var(--unnamed-color-331fe6);
+    text-align: center;
+    font: normal normal 600 21px/32px Poppins;
+    letter-spacing: 0px;
+    color: #331FE6;
+    opacity: 1;
+}
+.city .btn-title-5{
+    top: 8793px;
+    left: 1596px;
+    width: 128px;
+    height: 29px;
+    color: var(--unnamed-color-331fe6);
+    text-align: center;
+    font: normal normal 600 21px/32px Poppins;
+    letter-spacing: 0px;
+    color: #331FE6;
+    opacity: 1;
+}
+
+.city .card-1{
+    top: 8002px;
+    left: -266px;
+    width: 492px;
+    height: 886px;
+    background: transparent url('../img/Mask\ Group\ 47.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+.city .card-2{
+    top: 8002px;
+    left: 164px;
+    width: 492px;
+    height: 886px;
+    background: transparent url('../img/Mask\ Group\ 43.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+.city .card-3{
+    top: 8002px;
+    left: 594px;
+    width: 492px;
+    height: 886px;
+    background: transparent url('../img/Mask\ Group\ 44.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.city .card-4{
+    top: 8002px;
+    left: 1023px;
+    width: 492px;
+    height: 886px;
+    background: transparent url('../img/Mask\ Group\ 45.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.city .card-5{
+    top: 8002px;
+    left: 1454px;
+    width: 492px;
+    height: 886px;
+    background: transparent url('../img/Mask\ Group\ 46.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}

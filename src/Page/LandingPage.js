@@ -8,6 +8,8 @@ import './LandingPage.css'
 import GetApps from '../Components/GetApps'
 import SignUp from '../Components/SignUp'
 import HeadStart from '../Components/HeadStart'
+import Scooter from '../Components/Scooter'
+import SmartCity from '../Components/SmartCity'
 
 function LandingPage() {
     return (
@@ -17,6 +19,8 @@ function LandingPage() {
             <RunningBusiness></RunningBusiness>
             <Marketing></Marketing>
             <FreedomForYou></FreedomForYou>
+            <SmartCity></SmartCity>
+            <Scooter></Scooter>
             <HeadStart></HeadStart>
             <GetApps></GetApps>
             <SignUp></SignUp>
