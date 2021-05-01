@@ -23,9 +23,7 @@ function GetStarted() {
 
             </div>
             <div className='mid'>
-                <div className='line'>
-                    
-                </div>
+                <div className='line'></div>
                 <div className="icon"></div>
 
             </div>
