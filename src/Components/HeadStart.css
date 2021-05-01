@@ -1,0 +1,182 @@
+.head .title{
+    top: 10678px;
+    left: 280px;
+    width: 1120px;
+    height: 126px;
+    /* color: var(---454142-titles); */
+    text-align: center;
+    font: normal normal 600 51px/49px Poppins;
+    letter-spacing: 0px;
+    color: #454142;
+    opacity: 1;
+}
+
+.head .purple{
+    top: 10895px;
+    left: -435.7265625px;
+    width: 482px;
+    height: 383px;
+    background: #9A47D8 0% 0% no-repeat padding-box;
+    box-shadow: 3px 3px 60px #00000026;
+    border-radius: 27px;
+    opacity: 1;
+}
+
+.head .yellow{
+    top: 10895px;
+    left: 82px;
+    width: 482px;
+    height: 383px;
+    background: #FFB857 0% 0% no-repeat padding-box;
+    box-shadow: 3px 3px 60px #00000026;
+    border-radius: 27px;
+    opacity: 1;
+}
+.head .green{
+    top: 10895px;
+    left: 599px;
+    width: 482px;
+    height: 383px;
+    background: var(--unnamed-color-29c78a) 0% 0% no-repeat padding-box;
+    background: #29C78A 0% 0% no-repeat padding-box;
+    box-shadow: 3px 3px 60px #00000026;
+    border-radius: 27px;
+    opacity: 1;
+}
+.head .blue{
+    top: 10895px;
+    left: 1116px;
+    width: 482px;
+    height: 383px;
+    background: var(--unnamed-color-1270e3) 0% 0% no-repeat padding-box;
+    background: #1270E3 0% 0% no-repeat padding-box;
+    box-shadow: 3px 3px 60px #00000026;
+    border-radius: 27px;
+    opacity: 1;
+}
+
+.head .pink{
+    top: 10895px;
+    left: 1633px;
+    width: 482px;
+    height: 383px;
+    background: #E0428B 0% 0% no-repeat padding-box;
+    box-shadow: 3px 3px 60px #00000026;
+    border-radius: 27px;
+    opacity: 1;
+}
+
+.head .purple-pic{
+    top: 10938px;
+    left: -424.7265625px;
+    width: 460px;
+    height: 258px;
+    background: var(---ffffff-background) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 11px;
+    opacity: 1;
+}
+
+
+.head .yellow-pic{
+    top: 10938px;
+left: 93px;
+width: 460px;
+height: 258px;
+background: var(---ffffff-background) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 11px;
+opacity: 1;
+}
+
+.head .green-pic{
+    top: 10938px;
+    left: 610px;
+    width: 460px;
+    height: 258px;
+    background: var(---ffffff-background) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 11px;
+    opacity: 1;
+}
+.head .blue-pic{
+    top: 10938px;
+    left: 1127px;
+    width: 460px;
+    height: 258px;
+    background: var(---ffffff-background) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 11px;
+    opacity: 1;
+}
+
+.head .pink-pic{
+    top: 10938px;
+    left: 1644px;
+    width: 460px;
+    height: 258px;
+    background: var(---ffffff-background) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 11px;
+    opacity: 1;
+}
+
+.head .yellow-pic-img{
+    top: 11039px;
+    left: 284px;
+    width: 77px;
+    height: 58px;
+    background: var(---e3e3e3-stroke-box) 0% 0% no-repeat padding-box;
+    background: #E3E3E3 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.head .green-pic-img{
+    top: 11039px;
+    left: 788px;
+    width: 77px;
+    height: 58px;
+    background: var(---e3e3e3-stroke-box) 0% 0% no-repeat padding-box;
+    background: #E3E3E3 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.head .blue-pic-img{
+    top: 11039px;
+    left: 1319px;
+    width: 77px;
+    height: 58px;
+    background: var(---e3e3e3-stroke-box) 0% 0% no-repeat padding-box;
+    background: #E3E3E3 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.head .btn{
+    top: 11396px;
+    left: 646px;
+    width: 389px;
+    height: 103px;
+    background: var(---ffffff-background) 0% 0% no-repeat padding-box;
+    border: 3px solid var(--unnamed-color-331fe6);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 3px solid #331FE6;
+    border-radius: 52px;
+    opacity: 1;
+}
+
+.head .btn-text{
+    top: 11431px;
+    left: 697px;
+    width: 286px;
+    height: 33px;
+    color: var(--unnamed-color-331fe6);
+    text-align: center;
+    font: normal normal 600 24px/28px Poppins;
+    letter-spacing: 0px;
+    color: #331FE6;
+    opacity: 1;
+}
+
+.head .title{
+    
+}

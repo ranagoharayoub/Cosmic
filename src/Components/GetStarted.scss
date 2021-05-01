@@ -1,16 +1,4 @@
-// :root{
-   
 
-//     /* Colors: */
-//     --unnamed-color-331fe6: #331FE6;
-//     --unnamed-color-29c78a: #29C78A;
-//     ---1270e3-primary: #1270E3;
-//     --f2f8fe-secondary: #F2F8FE;
-//     ---ffffff-background: #FFFFFF;
-//     ---454142-titles: #454142;
-//     ---9d9d9d-titles-2: #9D9D9D;
-//     ---e3e3e3-stroke-box: #E3E3E3;
-// }
 
 *{
     position: absolute;
@@ -19,16 +7,7 @@
 .getStarted {
     margin : 0 0;
  
-    /* min-height: 100vh;
-    min-width: 100vw;
-
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    justify-items: center;
-    align-content: center;
-    position: absolute; */
+   
 }
 
 .rectangle3219 {
@@ -93,18 +72,7 @@
 
 
 /* right */
-.right{
-    /* width: 50%;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-content: center;
-    justify-content: center;
 
-    padding-left: 10rem;
-     */
-    
-}
 
 .right h3 {
     top: 1414px;
@@ -240,19 +208,6 @@
 
 
 /* mid */
-.mid {
-    
-    /* position: absolute;
-    left: 50%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    align-content: center;
-    justify-content: center;
-    justify-items: center; */
-    
-}
-
 .mid .icon {   
     
     top: 1405px;
@@ -261,29 +216,22 @@
     height: 62px;
     background: transparent url('../images/Group 8176.svg') 0% 0% no-repeat padding-box;
     opacity: 1;
-        /* position: absolute;
-        top: 30%;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        align-content: center;
-        justify-content: center;
-        justify-items: center;    */
+        
 }
 
-.mid .line {
-    top: 1181px;
-    left: 840px;
-    width: 0px;
-    height: 2823px;
-    border: 5px dashed var(---e3e3e3-stroke-box);
-    background: transparent url('../images/Path 10342.svg') 0% 0% no-repeat padding-box;
-    border: 5px dashed #E3E3E3;
-    opacity: 1;
+// .mid .line {
+//     top: 1181px;
+//     left: 840px;
+//     width: 0px;
+//     height: 2823px;
+   
+//     background: transparent url('../images/Path 10342.svg') 0% 0% no-repeat padding-box;
+//     border: 5px dashed #E3E3E3;
+//     opacity: 1;
         
     
     
-}
+// }
 
 
 

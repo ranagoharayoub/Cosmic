@@ -1,7 +1,7 @@
 import React from 'react'
 import './GetStarted.scss';
 
-// import SVG from '../images/Group 8187.svg';
+
 
 
 
@@ -17,13 +17,13 @@ function GetStarted() {
             
             <div className='left'>
                 <div className='circle'>
-                    {/* <img src={Circle} alt="Circle"/> */}
+                   
                 </div>
                 <div className='image'><img src="" alt='pic'/></div>
 
             </div>
             <div className='mid'>
-                <div className='line'></div>
+                {/* <div className='line'></div> */}
                 <div className="icon"></div>
 
             </div>

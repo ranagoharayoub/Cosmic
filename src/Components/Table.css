@@ -415,4 +415,59 @@ opacity: 1;
 
 }
 
+.tablejs .underTableline1 {
+    top: 6136px;
+left: 394px;
+width: 892px;
+height: 29px;
+text-align: center;
+font: normal normal bold 21px/22px Poppins;
+letter-spacing: 0px;
+color: #454142;
+opacity: 1;
+}
+
+.tablejs .underTableline2 {
+    top: 6181px;
+left: 683px;
+width: 292px;
+height: 23px;
+text-align: center;
+font: normal normal bold 16px/22px Poppins;
+letter-spacing: 1px;
+color: #331FE6;
+opacity: 1;
+}
+
+.tablejs .underTableline3 {
+    top: 6218px;
+    left: 429px;
+    width: 822px;
+    height: 23px;
+    text-align: center;
+    font: normal normal medium 16px/22px Poppins;
+    letter-spacing: 0px;
+    color: #454142;
+    opacity: 1; 
+}
+
+.tablejs .sign {
+    top: 6188px;
+left: 994px;
+width: 4px;
+height: 9px;
+transform: matrix(0, -1, 1, 0, 0, 0);
+border: 2px solid #331FE6;
+opacity: 1;
+}
+
+.tablejs .decor {
+    top: 6109px;
+left: 1553px;
+width: 127px;
+height: 128px;
+background: transparent url('../images/Group 8187c.svg') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
 

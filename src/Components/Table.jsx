@@ -59,16 +59,13 @@ export const Table = () => {
                 Did you know? Micro-mobility is part of a $30 Trillion trend happening this decade?
             </div>
             <div className="underTableline2">
-                Learn about the 15 minute city
+               {"Learn about the 15 minute city >"}
             </div>
+            
             <div className="underTableline3">
-
-            </div>
-
-            <div className="decor">
                 *Results may vary by market, season, location and a variety of variables that effect earning potential.
-            </div>
 
+            </div>
 
             <div className="decor"></div>
 

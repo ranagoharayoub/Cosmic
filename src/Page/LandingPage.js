@@ -5,6 +5,12 @@ import RunningBusiness from '../Components/RunningBusiness'
 import Marketing from '../Components/Marketing'
 import FreedomForYou from '../Components/FreedomForYou'
 import './LandingPage.css'
+import GetApps from '../Components/GetApps'
+import SignUp from '../Components/SignUp'
+import HeadStart from '../Components/HeadStart'
+import Scooter from '../Components/Scooter'
+import SmartCity from '../Components/SmartCity'
+import BuyScooter from '../Components/BuyScooter'
 import { Table } from '../Components/Table'
 
 function LandingPage() {
@@ -16,6 +22,12 @@ function LandingPage() {
             <Marketing></Marketing>
             <FreedomForYou></FreedomForYou>
             <Table/>
+            <BuyScooter></BuyScooter>
+            <SmartCity></SmartCity>
+            <Scooter></Scooter>
+            <HeadStart></HeadStart>
+            <GetApps></GetApps>
+            <SignUp></SignUp>
         </div>
     )
 }
