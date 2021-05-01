@@ -10,6 +10,7 @@ import SignUp from '../Components/SignUp'
 import HeadStart from '../Components/HeadStart'
 import Scooter from '../Components/Scooter'
 import SmartCity from '../Components/SmartCity'
+import BuyScooter from '../Components/BuyScooter'
 
 function LandingPage() {
     return (
@@ -19,6 +20,7 @@ function LandingPage() {
             <RunningBusiness></RunningBusiness>
             <Marketing></Marketing>
             <FreedomForYou></FreedomForYou>
+            <BuyScooter></BuyScooter>
             <SmartCity></SmartCity>
             <Scooter></Scooter>
             <HeadStart></HeadStart>
