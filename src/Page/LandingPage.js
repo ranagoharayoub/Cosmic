@@ -8,12 +8,12 @@ import './LandingPage.css'
 
 function LandingPage() {
     return (
-        <div>
+        <div className='main-div'>
             <MainPage></MainPage>
-            <GetStarted></GetStarted>
+            {/* <GetStarted></GetStarted>
             <RunningBusiness></RunningBusiness>
             <Marketing></Marketing>
-            <FreedomForYou></FreedomForYou>
+            <FreedomForYou></FreedomForYou> */}
         </div>
     )
 }

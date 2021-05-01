@@ -1,36 +1,193 @@
 .main-cont{
-    height: 100vh;
-    width: 100vw;
-    /* background-color: hsl(246, 80%, 51%); */
-    display: flex;
-    flex-direction: column;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1680px;
+    height: 1181px;
+    background: var(--unnamed-color-331fe6) 0% 0% no-repeat padding-box;
+    background: #331FE6 0% 0% no-repeat padding-box;
+    opacity: 1;
 }
 
-.main-upper-cont{
-    height: 75vh;
-    width: 100%;
-    background-color: #331FE6;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+.logo{
+    position: absolute;
+    top: 45px;
+    left: 139px;
+    width: 235px;
+    height: 43px;
+    background: transparent url('../img/Group 8172.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
 }
 
-.navbar{
-    height: 15%;
-    width: 80%;
-    background-color: aquamarine;
-
+.RIDERS{
+    position: absolute;
+    top: 58px;
+    left: 468px;
+    width: 70px;
+    height: 19px;
+    color: var(---ffffff-background);
+    text-align: center;
+    font: normal normal bold 15px/19px Montserrat;
+    letter-spacing: 2.25px;
+    color: #FFFFFF;
+    opacity: 1;
 }
 
-.main-content{
-    flex: 1;
-    width: 80%;
-    background-color: blueviolet;
+.LEARN-MORE{
+    position: absolute;
+    top: 58px;
+    left: 645px;
+    width: 150px;
+    height: 19px;
+    color: var(---ffffff-background);
+    text-align: center;
+    font: normal normal bold 15px/19px Montserrat;
+    letter-spacing: 2.25px;
+    color: #FFFFFF;
+    opacity: 1;
 }
 
-.main-lower-cont{
-    height: 25vh;
-    width: 100%;
-    background-color: #201035;
+.CHAT-WITH-US{
+    position: absolute;
+    top: 58px;
+    left: 1073px;
+    width: 150px;
+    height: 19px;
+    color: var(---ffffff-background);
+    text-align: center;
+    font: normal normal bold 15px/19px Montserrat;
+    letter-spacing: 2.25px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 0%;
+}
+
+.Path10339{
+    position: absolute;
+    top: 45px;
+    left: 1253px;
+    width: 84px;
+    height: 43px;
+    background: transparent url('../img/Path\ 10339\ \(1\).svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.Subtraction1{
+    position: absolute;
+    top: 45px;
+    left: 1338px;
+    width: 203px;
+    height: 44px;
+    background: transparent url('../img/Subtraction\ 1.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.FREE-TRIAL{
+    position: absolute;
+    top: 58px;
+    left: 1386px;
+    width: 118px;
+    height: 19px;
+    color: var(---ffffff-background);
+    text-align: center;
+    font: normal normal bold 15px/19px Montserrat;
+    letter-spacing: 2.25px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.be-an{
+    position: absolute;
+    top: 238px;
+    left: 139px;
+    width: 842px;
+    height: 221px;
+    color: var(---ffffff-background);
+    text-align: left;
+    font: normal normal 600 64px/65px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.white-line{
+    position: absolute;
+    top: 493px;
+    left: 139px;
+    width: 8px;
+    height: 62px;
+    background: var(---ffffff-background) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 100px;
+    opacity: 1;
+}
+
+.Earn-while{
+    position: absolute;
+    top: 493px;
+    left: 179px;
+    width: 490px;
+    height: 62px;
+    color: var(---ffffff-background);
+    text-align: left;
+    font: normal normal 600 21px/32px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.Path-10340{
+    position: absolute;
+    top: 607px;
+    left: 139px;
+    width: 121px;
+    height: 62px;
+    background: transparent url('../img//Path\ 10340.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.Subtraction-2{
+    position: absolute;
+    top: 607px;
+    left: 261px;
+    width: 237px;
+    height: 63px;
+    background: transparent url('../img/Subtraction\ 2.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.Group-8175{
+    position: absolute;
+    top: 745px;
+    left: 0px;
+    width: 128px;
+    height: 127px;
+    transform: matrix(0, 1, -1, 0, 0, 0);
+    background: transparent url('../img/Group\ 8175.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.Group-8174{
+    position: absolute;
+    top: 591px;
+    left: 1553px;
+    width: 127px;
+    height: 128px;
+    background: transparent url('../img/Group\ 8174.svg') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.SIGN-UP-FREE{
+    position: absolute;
+    top: 624px;
+    left: 312px;
+    width: 135px;
+    height: 29px;
+    color: var(---ffffff-background);
+    text-align: left;
+    font: normal normal 600 21px/32px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
 }
