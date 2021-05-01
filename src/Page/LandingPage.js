@@ -7,6 +7,7 @@ import FreedomForYou from '../Components/FreedomForYou'
 import './LandingPage.css'
 import GetApps from '../Components/GetApps'
 import SignUp from '../Components/SignUp'
+import HeadStart from '../Components/HeadStart'
 
 function LandingPage() {
     return (
@@ -16,6 +17,7 @@ function LandingPage() {
             <RunningBusiness></RunningBusiness>
             <Marketing></Marketing>
             <FreedomForYou></FreedomForYou>
+            <HeadStart></HeadStart>
             <GetApps></GetApps>
             <SignUp></SignUp>
         </div>

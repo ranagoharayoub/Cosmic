@@ -2,5 +2,5 @@
     position: relative;
     width: 1680px;
     height: 13842px;
-    
+    overflow-y: hidden;
 }
