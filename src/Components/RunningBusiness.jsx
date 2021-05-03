@@ -14,13 +14,10 @@ function RunningBusiness() {
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ximus vulputate libero nec commoda.
             </div>
             <div className="paraIcon"></div>
-            <div className="buttonIcon"></div>
-            <div className="button"></div>
-            <div className="buttonContent">SIGN UP FREE</div>
-
-
-
-            <div className="image2"></div>
+            <a href='/'><div className="buttonIcon"></div></a>
+            <a href='/'><div className="button"></div>
+            <div className="buttonContent">SIGN UP FREE</div></a>
+            <div className="image2"><img height='100%' src="/img/placeholder.jpg" alt='pic'/></div>
             <div className="circle"></div>
             <div className="decor"></div>
         </div>

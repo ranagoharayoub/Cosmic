@@ -18,8 +18,8 @@ function GetApps() {
             <div className='FREEFLOATING'>FREEFLOATING</div>
             <div className='SUBSCRIPTIONS'>SUBSCRIPTIONS</div>
             <div className='AMENITY'>AMENITY</div>
-            <div className='apple-badge'></div>
-            <div className='play-badge'></div>
+            <a href='/'><div className='apple-badge'></div></a>
+            <a href='/'><div className='play-badge'></div></a>
             <div></div>
             <div></div>
             <div></div>

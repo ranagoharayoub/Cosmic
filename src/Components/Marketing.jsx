@@ -13,15 +13,11 @@ function Marketing() {
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ximus vulputate libero nec commoda.
             </div>
             <div className="paraIcon"></div>
-            <div className="button"></div>
-            <div className="buttonContent"></div>
-            <div className="buttonIcon"></div>
-
-
+            <a href='/'><div className="buttonIcon"></div></a>
+            <a href='/'><div className="button"></div>
+            <div className="buttonContent">SIGN UP FREE</div></a>
             <div className="icon"></div>
-
-
-            <div className="image"></div>
+            <div className="image"><img height='100%' src="/img/placeholder.jpg" alt='pic'/></div>
             <div className="circle"></div>
             <div className="decor"></div>
             

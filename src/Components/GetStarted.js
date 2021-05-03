@@ -17,31 +17,21 @@ function GetStarted() {
             
             <div className='left'>
                 <div className='circle'>
-                   
                 </div>
-                <div className='image'><img src="" alt='pic'/></div>
-
+                <div className='image'><img height='100%' src="/img/placeholder.jpg" alt='pic'/></div>
             </div>
             <div className='mid'>
-                {/* <div className='line'></div> */}
                 <div className="icon"></div>
-
             </div>
             <div className='right'>
                 <h3>GET STARTED</h3>
                 <h1>Training, Certificate supply chain and operations all in one place</h1>
                 <div className="icon2"></div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ximus vulputate libero nec commoda.</p>
-                <div className="button"></div>
-                <div className="buttonContent">SIGN UP FREE</div>
-                <div className="buttonIcon"></div>
+                <a href='/'><div className="button"></div></a>
+                <a href='/'><div className="buttonContent">SIGN UP FREE</div></a>
+                <a href='/'><div className="buttonIcon"></div></a>
                 <div className="group8188"></div>
-               
-                                     
-               
-                
-                
-
             </div>
         </div>
     )

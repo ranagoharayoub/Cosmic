@@ -10,18 +10,14 @@ function HeadStart() {
             <div className='green'></div>
             <div className='blue'></div>
             <div className='pink'></div>
-            <div className='purple-pic'></div>
-            <div className='yellow-pic'></div>
-            <div className='green-pic'></div>
-            <div className='blue-pic'></div>
-            <div className='pink-pic'></div>
-            <div className='yellow-pic-img'></div>
-            <div className='green-pic-img'></div>
-            <div className='blue-pic-img'></div>
+            <div className='purple-pic'><img width='100%' height='100%' src="/img/placeholder.jpg" alt='pic'/></div>
+            <div className='yellow-pic'><img width='100%' height='100%' src="/img/placeholder.jpg" alt='pic'/></div>
+            <div className='green-pic'><img width='100%' height='100%' src="/img/placeholder.jpg" alt='pic'/></div>
+            <div className='blue-pic'><img width='100%' height='100%' src="/img/placeholder.jpg" alt='pic'/></div>
+            <div className='pink-pic'><img width='100%' height='100%' src="/img/placeholder.jpg" alt='pic'/></div>
             <div className=''></div>
-            <div className='btn'></div>
-            <div className='btn-text'>ACCESS ALL RECOURSES</div>
-
+            <a href='/'><div className='btn'></div>
+            <div className='btn-text'>ACCESS ALL RECOURSES</div></a>
         </div>
     )
 }
